@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="record">Record</string>
+    <string name="shot_views">shot_views</string>
+    <string name="clients">CLients</string>
+    <string name="impacted">impacted</string>
+    <string name="_147">147</string>
+    <string name="following">Following</string>
+    <string name="_820">820</string>
+    <string name="north_sylvanland">North Sylvanland</string>
+    <string name="_225">$225</string>
+    <string name="hydro_lifting">Hydro lifting</string>
+    <string name="south_lionel">South Lionel</string>
+    <string name="_09am_07pm">09am-07pm</string>
+    <string name="_180">$180</string>
+    <string name="eyelid_surgery">Eyelid surgery</string>
+    <string name="_10am_08pm">10am-08pm</string>
+</resources>
